@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Disable Jetpack Device Pixels Support
-Plugin URI: 
+Plugin URI: https://github.com/kenthhagstrom/kh-djdp
 Description: Remove annoying jetpack js script that's really not needed
 Version: 0.1.0
 Author: Kenth Hagström
